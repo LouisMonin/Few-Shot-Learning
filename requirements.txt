@@ -1,0 +1,12 @@
+transformers
+torch
+pandas==1.5.3
+datasets 
+evaluate 
+accelerate
+datasets
+scikit-learn
+requests
+protobuf==3.20.*
+matplotlib
+seaborn
